@@ -11,3 +11,6 @@ print(data.head(10))
 
 print(e1.correlacionPares())
 
+import tratamientoDx as tr
+
+print(tr.tratamientoDatos())
