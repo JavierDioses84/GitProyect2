@@ -10,3 +10,4 @@ data = pd.read_excel('Inmuebles.xlsx')
 print(data.head(10))
 
 print(e1.correlacionPares())
+
